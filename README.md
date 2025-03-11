@@ -78,15 +78,6 @@ This repository contains 8 machine learning lab programs, each implementing a di
 - <span style="color:green">Best suited for:</span> Shop-wise churn data (churn prediction with probability scores)
 </details>
 
-<details>
-<summary><b>8. 🌲 Random Forest</b></summary>
-<br>
-
-- Ensemble learning method combining multiple decision trees
-- Cross-validation and hyperparameter tuning
-- <span style="color:green">Best suited for:</span> Both datasets (high-performance prediction tasks)
-</details>
-
 ---
 
 ## 🔍 Dataset Compatibility
@@ -122,7 +113,6 @@ This repository contains 8 machine learning lab programs, each implementing a di
       • KNN<br>
       • Decision Tree<br>
       • Logistic Regression<br>
-      • Random Forest
     </td>
     <td>
       • Churn prediction<br>
